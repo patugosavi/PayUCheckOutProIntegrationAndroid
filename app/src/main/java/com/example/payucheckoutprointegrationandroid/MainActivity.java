@@ -60,8 +60,8 @@ import javax.crypto.spec.SecretKeySpec;
 
 public class MainActivity extends AppCompatActivity {
 
-    private final String email = "prathameshgosavi015@gmail.com";
-    private final String phone = "9834059185";
+    private final String email = "test@gmail.com";
+    private final String phone = "5651524545";
     private final String merchantName = "Test";
     private final String surl = "https://payu.herokuapp.com/success";
     private final String furl = "https://payu.herokuapp.com/failure";
